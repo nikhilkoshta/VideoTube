@@ -1,0 +1,11 @@
+{
+  "name": "03_learning-backend",
+  "version": "1.0.0",
+  "description": "a practice of full backend for getting industry ready",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "nikhil koshta",
+  "license": "ISC"
+}
